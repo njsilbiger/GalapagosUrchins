@@ -1,0 +1,40 @@
+ID,Organism.ID,Sample,Notes 
+Egala_Bart_1_23C,Egala_Bart_1,Sample,Messy
+Egala_Bart_3_28C,Egala_Bart_3,Sample,Messy
+Egala_Bart_6_23C,Egala_Bart_6,Sample,Low n (<30) and messy
+Egala_Bart_7_28C,Egala_Bart_7,Sample,Messy
+Egala_Bart_10_26C,Egala_Bart_10,Sample,Messy
+Egala_Botel_1_26C,Egala_Botel_1,Sample,Low n (<30) and messy
+Egala_Botel_1_30C,Egala_Botel_1,Sample,Low n (<30) and messy
+Egala_Botel_2_20C,Egala_Botel_2,Sample,Low n (<30) and messy
+Egala_Corm_7_26C,Egala_Corm_7,Sample,Messy
+Egala_Corm_8_30C,Egala_Corm_8,Sample,Low n (<30) and messy
+Egala_Corm_10_30C,Egala_Corm_10,Sample,Low n (<30) and messy
+Egala_Espi_4_31C,Egala_Espi_4,Sample,Low n (<30) and messy
+Egala_Espi_4_32C,Egala_Espi_4,Sample,Low n (<30) and messy
+Egala_Espi_7_19C,Egala_Espi_7,Sample,Low n (<30) and messy
+Egala_Ibbet_1_23C,Egala_Ibbet_1,Sample,Messy
+Egala_Ibbet_1_28C,Egala_Ibbet_1,Sample,Messy
+Egala_Ibbet_3_23C,Egala_Ibbet_3,Sample,Messy
+Egala_Ibbet_3_26C,Egala_Ibbet_3,Sample,Low n (<30) and messy
+Egala_Ibbet_3_28C,Egala_Ibbet_3,Sample,Messy
+EgalaBk_Bart_2_23C,EgalaBk_Bart_2,Blank,Messy
+EgalaBk_Bart_2_26C,EgalaBk_Bart_2,Blank,Low n (<30) and messy
+EgalaBk_Bart_5_23C,EgalaBk_Bart_5,Blank,Messy
+EgalaBk_Bart_5_32C,EgalaBk_Bart_5,Blank,Messy
+EgalaBk_Botel_8_20C,EgalaBk_Botel_8,Blank,Messy
+EgalaBk_Botel_8_23C,EgalaBk_Botel_8,Blank,Messy
+EgalaBk_Botel_8_28C,EgalaBk_Botel_8,Blank,Messy
+EgalaBk_Corm_3_22C,EgalaBk_Corm_3,Blank,Messy
+EgalaBk_Doug_4_19C,EgalaBk_Doug_4,Blank,Messy
+EgalaBk_Doug_9_19C,EgalaBk_Doug_9,Blank,Messy
+EgalaBk_Doug_9_23C,EgalaBk_Doug_9,Blank,Low n (<30) and messy
+EgalaBk_Espi_3_19C,EgalaBk_Espi_3,Blank,Messy
+EgalaBk_Espi_3_26C,EgalaBk_Espi_3,Blank,Messy
+EgalaBk_Espi_6_19C,EgalaBk_Espi_6,Blank,Messy
+EgalaBk_Espi_6_23C,EgalaBk_Espi_6,Blank,Messy
+EgalaBk_Espi_6_26C,EgalaBk_Espi_6,Blank,Messy
+EgalaBk_Ibbet_7_23C,EgalaBk_Ibbet_7,Blank,Messy
+EgalaBk_Ibbet_7_26C,EgalaBk_Ibbet_7,Blank,Messy
+EgalaBk_Ibbet_7_30C,EgalaBk_Ibbet_7,Blank,Messy
+EgalaBk_Ibbet_10_23C,EgalaBk_Ibbet_10,Blank,Messy
